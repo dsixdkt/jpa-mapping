@@ -1,0 +1,8 @@
+### GET request to local server
+GET http://localhost:8080/
+
+### PUT request to local server
+PUT http://localhost:8080/
+
+### DELETE request to local server
+DELETE http://localhost:8080/
